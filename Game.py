@@ -2,6 +2,10 @@ import random
 import time
 import pandas
 import numpy
+def array():
+    pass
+    def arrray():
+        pass
 
 def select_game():
     menu = ('M', 'R', 'P', 'S', 'E')
